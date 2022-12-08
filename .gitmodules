@@ -1,0 +1,21 @@
+[submodule "cmp201-ax1.1"]
+	path = cmp201-ax1.1
+	url = git@github.com:goopey7/cmp201-ax1.1.git
+[submodule "cmp201-ax1.3"]
+	path = cmp201-ax1.3
+	url = git@github.com:goopey7/cmp201-ax1.3.git
+[submodule "cmp201-ax1.4"]
+	path = cmp201-ax1.4
+	url = git@github.com:goopey7/cmp201-ax1.4.git
+[submodule "cmp201-ax1.2"]
+	path = cmp201-ax1.2
+	url = git@github.com:goopey7/cmp201-ax1.2.git
+[submodule "cmp201-ax1.5"]
+	path = cmp201-ax1.5
+	url = git@github.com:goopey7/cmp201-ax1.5.git
+[submodule "cmp201-ax1.6"]
+	path = cmp201-ax1.6
+	url = git@github.com:goopey7/cmp201-ax1.6.git
+[submodule "cmp201-ax1.7"]
+	path = cmp201-ax1.7
+	url = git@github.com:goopey7/cmp201-ax1.7.git
