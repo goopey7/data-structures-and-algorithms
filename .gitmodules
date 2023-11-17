@@ -19,3 +19,9 @@
 [submodule "cmp201-ax1.7"]
 	path = cmp201-ax1.7
 	url = git@github.com:goopey7/cmp201-ax1.7.git
+[submodule "cmp201-ax1.8"]
+	path = cmp201-ax1.8
+	url = git@github.com:goopey7/cmp201-ax1.8.git
+[submodule "cmp201-ax2"]
+	path = cmp201-ax2
+	url = git@github.com:goopey7/cmp201-ax2.git

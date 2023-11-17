@@ -13,3 +13,7 @@
 ### [1.6 Heaps](https://github.com/goopey7/cmp201-ax1.6)
 
 ### [1.7 Dijkstra's Shortest Path](https://github.com/goopey7/cmp201-ax1.7)
+
+### [1.8 Stable Marriage](https://github.com/goopey7/cmp201-ax1.8)
+
+### [2.0 Self-balancing AVL Tree](https://github.com/goopey7/cmp201-ax2)
